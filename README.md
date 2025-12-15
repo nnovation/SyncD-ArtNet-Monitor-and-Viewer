@@ -1,4 +1,4 @@
-# SyncD Art-Net Monitor & Viewer
+# SyncD ArtNet Monitor & Viewer
 
 A lightweight and professional **Art-Net DMX monitoring & viewing tool** developed under the **SyncD** brand. This software is designed for lighting programmers, technicians, and show operators who need **real-time visibility** of Art-Net DMX data across networks, subnets, and universes.
 
