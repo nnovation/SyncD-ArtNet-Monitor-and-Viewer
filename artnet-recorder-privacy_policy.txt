@@ -1,0 +1,9 @@
+ArtNet Recorder & Player does not collect, store, or share any personal data.
+
+The app works entirely on the local network to record and play back Art-Net / DMX (UDP) data for lighting control, and show recording and playback. No user information, analytics, tracking, or personally identifiable information (PII) is collected.
+
+Recorded show files (e.g., .syncd) are saved only to the location you choose on your device (local storage). The app does not upload recordings to any server, and it does not transmit them to third parties.
+
+The app does not require user accounts, login, or internet access. Any network access is limited to the local network for sending/receiving Art-Net data.
+
+If you have questions about this privacy policy, please contact: info@syncdconnect.com
